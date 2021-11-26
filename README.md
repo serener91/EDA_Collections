@@ -8,6 +8,6 @@ I'd like to pursue my career in data science and I believe getting my hands dirt
 BTW, This is an ongoing and long-term project so if you don't see anything interesting at the moment, please come back later for new updates!
 
 ## Topic 1 :
-    Netflix Movies and TV Shows 
+Netflix Movies and TV Shows 
     
-    **Key Insights**
+**Key Insights**
