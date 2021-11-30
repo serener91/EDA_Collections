@@ -32,14 +32,13 @@ Daily : A first day of the month seems to be the Netflix regular update period. 
 Movies vs. TV shows
 
 **A3.**
-Definitely more movies availabe on Netflix (apprx. 7:3)
+Definitely more movies availabe on Netflix (apprx. 70% of contents are movies)
 
 **Q4.** 
-Any difference in countries?  
+Any difference amongst the countries?  
 
 **A4.**
-Movies are more common in US, India, UK, France presumably because they have either huge movie manufacturers like Hollywood and Bollywood.
-On the other hand, TV shows are more common in South Korea, Japan, and Taiwan. 
+Movies are more common in US, India, UK, France presumably because they have either huge movie manufacturers like Hollywood and Bollywood or frequent hosts to the acclaimed film awards. On the other hand, TV shows are more common in South Korea, Japan, and Taiwan.
 
 **Q5.** 
 Which director appeared the most often?
@@ -57,7 +56,7 @@ In US, Samuel L. Jackson(41), Fred Tatasciore(39), James Franco(36), Nicolas Cag
 In South Korea, 성동일(18) 김원해(15), 이경영(15), 남주혁(15), 박해준(15) 
 
 **Q7.** 
-what is the most common rating?
+What is the most common rating?
 
 **A7.**
 TV-MA, meaning that there are lots of contents made for adults on Netflix.
