@@ -10,7 +10,7 @@ BTW, This is an ongoing and long-term project so if you don't see anything inter
 ## Environments
 Codes were written and run on Google Colab unless stated otherwise
 
-## Topic 1 : Netflix Movies and TV Shows 
+## Topic 1 : Video_Streaming_Platforms
 Dateset contains listings of all the movies and TV shows available on Netflix along with the details such as cast, director, genre, duration, etc.
 
 ### Questions & Answers
