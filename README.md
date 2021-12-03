@@ -27,3 +27,13 @@ Categories are about the **most commonly appeared** on each platform.
 |Rating|TV-MA|TV-G|13+|
 |Duration(% of end in 1 season)|67%|55%|71%|
 
+Quick Desicision Helper:
+  * Looking for adult contents, global media contents --> Netflix
+  * Looking for family, kid contents --> Disney+
+  * Looking for extra contents such as meditation, Yoga, etc as well as regular movie and TV shows --> AmazonPrime
+
+Also following questions were answered:
+  * Persona (Relationship btw directors and actors)
+  * Most common actors, genres per country
+  * Most common directors, actors per genre
+  * Most demanding directors, actors in past 5 years 
