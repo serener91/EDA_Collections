@@ -28,9 +28,9 @@ Categories are about the **most commonly appeared** on each platform.
 |Duration(% of end in 1 season)|67%|55%|71%|
 
 Quick Desicision Helper:
-  * Looking for adult contents, global media contents --> Netflix
-  * Looking for family, kid contents --> Disney+
-  * Looking for extra contents such as meditation, Yoga, etc as well as regular movie and TV shows --> AmazonPrime
+  * Looking for **adult** contents, **global** media contents --> **Netflix**
+  * Looking for **family**, **kid** contents --> **Disney+**
+  * Looking for extra contents such as meditation, Yoga, etc as well as regular movie and TV shows --> **AmazonPrime**
 
 Also following questions were answered:
   * Persona (Relationship btw directors and actors)
