@@ -25,4 +25,5 @@ Categories are about the **most commonly appeared** on each platform.
 |Country|United States|United States|Not Available|
 |Genre|International Movies|Family|Drama|
 |Rating|TV-MA|TV-G|13+|
+|Duration(% of end in 1 season)|67%|55%|71%|
 
