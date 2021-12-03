@@ -10,7 +10,7 @@ BTW, This is an ongoing and long-term project so if you don't see anything inter
 ## Environments
 Codes were written and run on Google Colab unless stated otherwise
 
-## Topic 1 : Video_Streaming_Platforms
+## Topic 1 : Video Streaming Platforms
 If you want to watch your favorite/popular moives or TV shows, your go to method would be to subscribe to some streaming services.
 But there are now too many streaming platforms that we are pretty much living in the age of streaming. 
 In addtion, they often use "Exclusive" contents to lure you in. So how would you decide which streaming platform is the best fit for you?
