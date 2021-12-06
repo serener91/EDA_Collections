@@ -37,3 +37,26 @@ Also following questions were answered:
   * Most common actors, genres per country
   * Most common directors, actors per genre
   * Most demanding directors, actors in past 5 years 
+
+
+## Topic 2 : Customer Personality Analysis
+Customer Personality Analysis is a detailed analysis of a company's ideal customers. In other words, it's a marketing strategy to tailor products or promotions to match the needs of the customers. Although the dateset does not specify where exactly data was collected, it seems to be from a relatively large grocery store.
+
+### Summary of Analysis
+I have analyzed the dataset in four categories: 
+  1. Demographic spending trends
+      * Wine and meat are the most demanding products
+      * Income, age are proportional to the spending
+      * Number of kids at home and the spending are inversely proprotional 
+      * Marital status of Absurd, divorced, widow and YOLO spent more on wine
+      * Education level is proprotional to the spneding on wine
+      * Amount of spending has decreased continuously from 2012 to 2014
+  2. Customer satisfaction
+      * Married customers and in 40s and 60s with a college degree, middle income, one child are the 
+      * Number of complaints doubled in 2013 and reduced by 75% in 2014.
+  3. Purchase pattern
+      * Number of visit to website is proportional to number of purchase on web and the discounted products
+      * 
+  4. Campaign (Promotion) Effectiveness
+
+
