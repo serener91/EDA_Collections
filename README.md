@@ -2,6 +2,15 @@
 
 ### Author : Gukhwan Hyun
 
+## Table of Contents
+- [Exploratory Data Analysis Collection](#exploratory-data-analysis-collection)
+  * [Introduction](#introduction)
+  * [Environments](#environments)
+  * [Topic 1 : Video Streaming Platforms](#Topic-1-:-Video-Streaming-Platforms)
+    + [Summary of Analysis](#summary-of-analysis)
+  * [Topic 2 : Customer Personality Analysis](#topic-1:-customer-personality-analysis)
+    + [Summary of Analysis](#summary-of-analysis-1)
+
 ## Introduction
 This repository is my collection of Exploratory Data Analysis on subjects I find interesting or helpful.
 I'd like to pursue my career in data science and I believe getting my hands dirty with real-life data is good way to kick it off :)
