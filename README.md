@@ -6,9 +6,9 @@
 - [Exploratory Data Analysis Collection](#exploratory-data-analysis-collection)
   * [Introduction](#introduction)
   * [Environments](#environments)
-  * [Topic 1 : Video Streaming Platforms](#Topic-1-:-Video-Streaming-Platforms)
+  * [Topic 1 : Video Streaming Platforms](#topic-1--video-streaming-platforms)
     + [Summary of Analysis](#summary-of-analysis)
-  * [Topic 2 : Customer Personality Analysis](#topic-1:-customer-personality-analysis)
+  * [Topic 2 : Customer Personality Analysis](#topic-2--customer-personality-analysis)
     + [Summary of Analysis](#summary-of-analysis-1)
 
 ## Introduction
