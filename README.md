@@ -12,7 +12,7 @@ Codes were written and run on Google Colab unless stated otherwise
 
 ## Topic 1 : Video Streaming Platforms
 If you want to watch your favorite/popular moives or TV shows these days, your go to method would probably be to subscribe to some of OTT services.
-But there are now too many streaming platforms to choose from and in the so-called age of streaming, it's quite common to face such a dilemma.
+But there are now too many streaming platforms to choose from and in so-called the age of streaming, it's quite common to face such a dilemma.
 In addtion, they often use "Exclusive" contents to lure you in, making you feel exhausted already. So how would you decide which streaming platform is the best fit for you?
 
 ### Summary of Analysis
