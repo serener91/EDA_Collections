@@ -84,7 +84,7 @@ Top Customers:
    * Customer with kids tend to shop on the discounted products
    * Absurd buys via catalog and YOLO buys via web and deal
 
-4. Campaign (Promotional event) Results
+4. Campaign (Promotional event) Results : top customer group
    * Campaign1 : 40s, 60s, Upper income, Married, zero kid or teen, graudation level
    * Campaign2 : 60s, 50s, Upper income, Togther, zero kid or teen, graudation level, PhD
    * Campaign3 : 40s, 50s, Middle income, Married, zero kid or teen, graudation level
