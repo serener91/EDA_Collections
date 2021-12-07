@@ -51,38 +51,41 @@ Also following questions were answered:
 Customer Personality Analysis is a detailed analysis of a company's ideal customers. In other words, it's a marketing strategy to tailor products or promotions to match the needs of the customers. Although the dateset does not specify where exactly data was collected, it appears to be from a relatively large grocery store.
 
 ### Summary of Analysis
-I have analyzed the dataset in four categories: 
-  1. Spending trend
-      * Wine and meat are the most demanding products
-      * Income, age are proportional to the spending
-      * Spending on meat product is proportional to income
-      * Number of kids and the spending are inversely proprotional 
-      * Education level is proprotional to the spneding on wine
-      * Amount of spending has decreased continuously from 2012 to 2014
+Top Customers:
+|    |Age|Income|Child|Marital Status|Education|
+|---|---|---|---|---|---|
+|Wine|70s|Upper|0|Widow, Absurd|PhD |
+|Meat|20s|6 figs|0|Absurd|NA|
+|Fruit|NA|Upper|NA|Absurd|NA|
+|Fish|20s, 70s|Upper|NA|Absurd|NA|
+|Sweet|NA|6 figs|NA|Widow|NA|
 
-      * Wine : 70s, Upper, zero kid, widow,absurd, phd
-      * Meat : 20s, 6 figs, zero kid, absurd
-      * Fruit : x, Upper, x, absurd
-      * FIsh : 20s, 70s, upper, x, absurd
-      * Sweet : x, 6fig, x widow
-  2. Customer satisfaction
-      * 0.95% complaints
-      * Customer who complained took 5 more days to come back
-      * Married customers and in 40s and 60s with a college degree, middle income, one child are the 
-      * Number of complaints doubled in 2013 and reduced by 75% in 2014.
-  3. Purchase pattern
-      * Number of visit to website is proportional to number of purchase on web and purchase of the discounted products
-      * Customers with the highest income tend to shop via a catalog
-      * Tendency to shop via catalog increase as income increases
-      * Customers with no kids tend to shop at the store and catalog
-      * Customer with kids tend to shop on the discounted products
-      * Absurd buys via catalog, YOLO buys via web and deal
-      * Number of purchase has decreased continuously from 2012 to 2014
-  4. Campaign (Promotional event) Result
-      * c1 : 40s, 60s, upper income, married, zero kid or teen, graudation level
-      * c2 : 60s, 50s, upper income, Togther, zero kid or teen, graudation level
-      * c3 : 40s, 50s, middle income, Married, zero kid or teen, graudation level
-      * c4 : 50s, 60s, upper, middle income, Married, zero kid, 1 or 0 teen, graudation level
-      * c5 : 30s, 40s, 60s, 50s, upper income, Married, zero kid or teen, graudation level
+1. Spending trend
+   * Wine and meat are the most demanding products
+   * Income, age are proportional to the spending
+   * Spending on meat product is proportional to income
+   * Number of kids and the spending are inversely proprotional 
+   * Education level is proprotional to the spneding on wine
+   * Amount of spending has decreased continuously from 2012 to 2014
+
+2. Customer satisfaction
+   * 0.95% complaint rate
+   * Customer who complained took 5 more days to come back
+   * Married customers in 40s and 60s with a college degree, middle income, one child filed the most complaint
+   * Number of complaints doubled in 2013 and reduced by 75% in 2014.
+
+3. Purchase pattern
+   * Number of visit to website is proportional to number of purchase on web and purchase of the discounted products
+   * Customers with the highest income tend to shop via a catalog
+   * Tendency to shop via catalog increases as income increases
+   * Customer with kids tend to shop on the discounted products
+   * Absurd buys via catalog and YOLO buys via web and deal
+
+4. Campaign (Promotional event) Results
+   * Campaign1 : 40s, 60s, Upper income, Married, zero kid or teen, graudation level
+   * Campaign2 : 60s, 50s, Upper income, Togther, zero kid or teen, graudation level, PhD
+   * Campaign3 : 40s, 50s, Middle income, Married, zero kid or teen, graudation level
+   * Campaign4 : 50s, 60s, Upper, Middle income, Married, zero kid, 1 or 0 teen, graudation level
+   * Campaign5 : 30s, 40s, 60s, 50s, Upper income, Married, zero kid or teen, graudation level
 
 
