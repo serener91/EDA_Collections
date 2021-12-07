@@ -52,14 +52,22 @@ Customer Personality Analysis is a detailed analysis of a company's ideal custom
 
 ### Summary of Analysis
 I have analyzed the dataset in four categories: 
-  1. Demographic spending trends
+  1. Spending trend
       * Wine and meat are the most demanding products
       * Income, age are proportional to the spending
-      * Number of kids at home and the spending are inversely proprotional 
-      * Marital status of Absurd, divorced, widow and YOLO spent more on wine
+      * Spending on meat product is proportional to income
+      * Number of kids and the spending are inversely proprotional 
       * Education level is proprotional to the spneding on wine
       * Amount of spending has decreased continuously from 2012 to 2014
+
+      * Wine : 70s, Upper, zero kid, widow,absurd, phd
+      * Meat : 20s, 6 figs, zero kid, absurd
+      * Fruit : x, Upper, x, absurd
+      * FIsh : 20s, 70s, upper, x, absurd
+      * Sweet : x, 6fig, x widow
   2. Customer satisfaction
+      * 0.95% complaints
+      * Customer who complained took 5 more days to come back
       * Married customers and in 40s and 60s with a college degree, middle income, one child are the 
       * Number of complaints doubled in 2013 and reduced by 75% in 2014.
   3. Purchase pattern
