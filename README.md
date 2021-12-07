@@ -21,8 +21,7 @@ Codes were written and run on Google Colab unless stated otherwise
 
 ## Topic 1 : Video Streaming Platforms
 If you want to watch your favorite/popular moives or TV shows these days, your go to method would probably be to subscribe to some of OTT services.
-But there are now too many streaming platforms to choose from and in so-called the age of streaming, it's quite common to face such a dilemma.
-In addtion, they often use "Exclusive" contents to lure you in, making you feel exhausted already. So how would you decide which streaming platform is the best fit for you?
+But there are now too many streaming platforms to choose from also they often use "Exclusive" contents to lure you in, making you feel exhausted already. So now the question lies not in what but how. How can you decide which streaming platform is the best fit for you?
 
 ### Summary of Analysis
 Categories are about the **most commonly appeared** on each platform.
@@ -49,7 +48,7 @@ Also following questions were answered:
 
 
 ## Topic 2 : Customer Personality Analysis
-Customer Personality Analysis is a detailed analysis of a company's ideal customers. In other words, it's a marketing strategy to tailor products or promotions to match the needs of the customers. Although the dateset does not specify where exactly data was collected, it seems to be from a relatively large grocery store.
+Customer Personality Analysis is a detailed analysis of a company's ideal customers. In other words, it's a marketing strategy to tailor products or promotions to match the needs of the customers. Although the dateset does not specify where exactly data was collected, it appears to be from a relatively large grocery store.
 
 ### Summary of Analysis
 I have analyzed the dataset in four categories: 
@@ -64,8 +63,18 @@ I have analyzed the dataset in four categories:
       * Married customers and in 40s and 60s with a college degree, middle income, one child are the 
       * Number of complaints doubled in 2013 and reduced by 75% in 2014.
   3. Purchase pattern
-      * Number of visit to website is proportional to number of purchase on web and the discounted products
-      * 
-  4. Campaign (Promotion) Effectiveness
+      * Number of visit to website is proportional to number of purchase on web and purchase of the discounted products
+      * Customers with the highest income tend to shop via a catalog
+      * Tendency to shop via catalog increase as income increases
+      * Customers with no kids tend to shop at the store and catalog
+      * Customer with kids tend to shop on the discounted products
+      * Absurd buys via catalog, YOLO buys via web and deal
+      * Number of purchase has decreased continuously from 2012 to 2014
+  4. Campaign (Promotional event) Result
+      * c1 : 40s, 60s, upper income, married, zero kid or teen, graudation level
+      * c2 : 60s, 50s, upper income, Togther, zero kid or teen, graudation level
+      * c3 : 40s, 50s, middle income, Married, zero kid or teen, graudation level
+      * c4 : 50s, 60s, upper, middle income, Married, zero kid, 1 or 0 teen, graudation level
+      * c5 : 30s, 40s, 60s, 50s, upper income, Married, zero kid or teen, graudation level
 
 
