@@ -52,6 +52,9 @@ Customer Personality Analysis is a detailed analysis of a company's ideal custom
 
 ### Summary of Analysis
 Top Customers:
+
+* NA : Outstanding group does not exist
+
 |    |Age|Income|Child|Marital Status|Education|
 |---|---|---|---|---|---|
 |Wine|70s|Upper|0|Widow, Absurd|PhD |
